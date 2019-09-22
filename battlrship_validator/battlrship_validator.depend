@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566316913 source:c:\users\mateusz\desktop\programy cpp\battlrship_validator\main.cpp
+	<iostream>
+	<vector>
+

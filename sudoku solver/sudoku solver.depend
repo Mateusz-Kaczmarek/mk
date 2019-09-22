@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1566669580 source:c:\users\mateusz\desktop\programy cpp\sudoku solver\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+
